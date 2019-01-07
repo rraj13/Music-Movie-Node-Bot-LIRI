@@ -74,7 +74,7 @@ if (process.argv[2] === "concert-this") {
                 console.log("Title: " + response.data.Title);
                 console.log("Year: " + response.data.Year);
                 console.log("IMDB Rating: " + response.data.imdbRating);
-                console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1]);
+                console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
                 console.log("Country: " + response.data.Country);
                 console.log("Language: " + response.data.Language);
                 console.log("Plot: " + response.data.Plot);
