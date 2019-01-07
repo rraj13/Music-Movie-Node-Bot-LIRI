@@ -8,13 +8,13 @@ https://drive.google.com/file/d/17pLkHpG4dtey6BqI2BWSirqacAe6Lg34/view
 Please read on for more information!
 
 ## Technologies
-Node.js - JavaScript if/else statements, loops and module import
-.env
-FS node module
-Axios node package
-OMDB Movie Database API
-Spotify API and node package
-BandsInTown API
+Node.js - JavaScript if/else statements, loops and module import<br/>
+.env<br/>
+FS node module<br/>
+Axios node package<br/>
+OMDB Movie Database API<br/>
+Spotify API and node package<br/>
+BandsInTown API<br/>
 Moment.js node package
 
 
