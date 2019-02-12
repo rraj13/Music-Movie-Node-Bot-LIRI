@@ -1,7 +1,7 @@
-# liri-node-app
+# liri-node-app-bot
 
 ## Introduction
-Hello! Liri-node-app is a command line node application that grabs user input and returns API data relevant to the input. My goal with this project was to better understand how to use the node command line, parse user input and perform axios API calls to recieve and display data. Because this is a CLI application, it cannot be deployed through Github or Heroku, so I have included a video demonstrating the app. Link is below.
+Hello! Liri-node-app is a command line node application that grabs user input and returns API data relevant to the input. My goal with this project was to better understand how to use the node command line, parse user input and perform axios API calls to receive and display data. Because this is a CLI application, it cannot be deployed through Github or Heroku, so I have included a video demonstrating the app. Link is below.
 
 https://drive.google.com/file/d/17pLkHpG4dtey6BqI2BWSirqacAe6Lg34/view
 
